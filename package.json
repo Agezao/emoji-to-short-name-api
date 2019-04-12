@@ -24,7 +24,7 @@
     "url": "https://github.com/Agezao/emoji-to-short-name-api/issues"
   },
   "dependencies": {
-    "emoji-to-short-name": "^1.0.0",
+    "emoji-to-short-name": "^1.0.1",
     "express": "^4.16.4",
     "bluebird": "^3.5.2",
     "body-parser": "^1.18.3",
