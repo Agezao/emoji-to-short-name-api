@@ -1,0 +1,38 @@
+{
+  "name": "emoji-to-short-name-api",
+  "version": "1.0.0",
+  "description": "Simple API that serves the emoji-to-short-name lib",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "emoji",
+    "unicode",
+    "names",
+    "short-name",
+    "emoji short-name"
+  ],
+  "license": "MIT",
+  "author": "Gabriel Age",
+  "homepage": "https://github.com/Agezao/emoji-to-short-name-api",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Agezao/emoji-to-short-name-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Agezao/emoji-to-short-name-api/issues"
+  },
+  "dependencies": {
+    "emoji-to-short-name": "^1.0.0",
+    "express": "^4.16.4",
+    "bluebird": "^3.5.2",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "cors": "^2.8.5",
+    "express-validation": "^1.0.2",
+    "fs-extra": "^7.0.1",
+    "helmet": "^3.14.0",
+    "morgan": "^1.9.1"
+  }
+}
